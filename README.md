@@ -1,4 +1,3 @@
-![Header](https://i.ibb.co/M1njGnR/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Azad V T</h1>
 <h3 align="center">A passionate fullstack developer from Calicut India</h3>
 
